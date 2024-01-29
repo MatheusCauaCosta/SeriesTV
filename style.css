@@ -36,3 +36,15 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+table td{
+    border: solid 1px black; 
+    background-color: gainsboro;
+    
+}
+table th{
+    border: solid 1px black;
+    background-color: gainsboro;
+}
+table{
+    margin: auto;
+}
