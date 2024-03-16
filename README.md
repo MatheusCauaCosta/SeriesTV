@@ -7,3 +7,5 @@
 ##Licença: MIT License
 
 ##contato: Gmail: matheuscauahub@gmail.com
+
+##Deploy: https://matheuscauacosta.github.io/SeriesTV/index.html
